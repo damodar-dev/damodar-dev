@@ -14,7 +14,6 @@
 </div>
 
 ---
-
 ## 👨‍💻 About Me
 
 I'm a **DevOps Engineer** with hands-on experience in designing and automating CI/CD pipelines, containerized applications, and cloud infrastructure. Recently completed comprehensive DevOps training and actively building real-world projects to strengthen my technical expertise.
