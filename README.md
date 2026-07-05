@@ -26,7 +26,7 @@ I'm a **DevOps Engineer** with hands-on experience in designing and automating C
 ## 🛠️ Technical Skills
 
 ### ☁️ Cloud Platform
-- **AWS:** EC2, IAM, VPC, Lambda, S3, RDS, DynamoDB, ELB, Auto Scaling, CloudWatch, Route 53, EBS, EFS, SNS, SQS
+- **AWS:** EC2, IAM, VPC, S3, RDS, DynamoDB, ELB, Auto Scaling, Lambda,  CloudWatch, Route 53, EBS, EFS, SNS, SQS
 
 ### 🔄 CI/CD & Build Tools
 - **Jenkins:** Freestyle Pipelines & Declarative Pipelines
